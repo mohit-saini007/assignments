@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>LIST</title>
+
+    </head>
+    <body>
+        <h1>friends</h1>
+        <ol type ="1">
+            <li> chandra prakash</li>
+            <li>kuldeep sunda</li>
+            <li>ganesh soni</li>
+            <li>shaban bhati</li>
+
+        </ol>
+        <h2> mobile</h2>
+        <ul type="circle">
+            <li>samsung</li>
+            <li>oppo</li>
+            <li>vivo</li>
+        </ul>
+    </body>

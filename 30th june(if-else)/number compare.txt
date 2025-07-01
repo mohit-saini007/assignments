@@ -1,0 +1,9 @@
+// Input a number
+let number = 27;
+
+// Check if the number is divisible by 3
+if (number % 3 === 0) {
+    console.log(`The number ${number} is divisible by 3.`);
+} else {
+    console.log(`The number ${number} is not divisible by 3.`);
+}

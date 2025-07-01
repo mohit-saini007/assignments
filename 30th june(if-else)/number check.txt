@@ -1,0 +1,12 @@
+// Input two numbers
+let num1 = 4;
+let num2 = 12;
+
+// Determine and print the greater number
+if (num1 > num2) {
+    console.log(`The greater number is ${num1}.`);
+} else if (num2 > num1) {
+    console.log(`The greater number is ${num2}.`);
+} else {
+    console.log("Both numbers are equal.");
+}

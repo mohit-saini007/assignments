@@ -1,0 +1,9 @@
+// Input a number
+let number = parseFloat(prompt("Enter a number:"));
+
+// Check if the number is between 10 and 50
+if (number >= 10 && number <= 50) {
+    console.log(`The number ${number} is between 10 and 50.`);
+} else {
+    console.log(`The number ${number} is not between 10 and 50.`);
+}
